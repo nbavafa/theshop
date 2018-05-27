@@ -1,0 +1,6 @@
+Star Wars_Episode IV_DVD_$20
+Star Wars_Episode V_DVD_$20
+Star Wars_Episode VI_DVD_$20
+Star Wars_Episode IV_Blu-Ray_$25
+Star Wars_Episode V_Blu-Ray_$25
+Star Wars_Episode VI_Blu-Ray_$25
